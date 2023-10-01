@@ -1,0 +1,21 @@
+int counter = 0;
+Random rng = new Random();
+                int num = rng.Next(1, 5);
+                
+                counter++;
+
+                switch (num)
+                {
+                    case 1:
+                        Console.WriteLine("{0}. Move", counter);
+                        break;
+                    case 2:
+                        Console.WriteLine("{0}. Block", counter);
+                        break;
+                    case 3:
+                        Console.WriteLine("{0}. Blitz / Get Up", counter);
+                        break;
+                    case 4:
+                        Console.WriteLine("{0}. Pass / Throw Team mate", counter);
+                        break;
+                }

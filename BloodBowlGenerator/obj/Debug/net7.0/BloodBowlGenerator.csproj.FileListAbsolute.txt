@@ -1,0 +1,14 @@
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\bin\Debug\net7.0\BloodBowlGenerator.exe
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\bin\Debug\net7.0\BloodBowlGenerator.deps.json
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\bin\Debug\net7.0\BloodBowlGenerator.runtimeconfig.json
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\bin\Debug\net7.0\BloodBowlGenerator.dll
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\bin\Debug\net7.0\BloodBowlGenerator.pdb
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\obj\Debug\net7.0\BloodBowlGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\obj\Debug\net7.0\BloodBowlGenerator.AssemblyInfoInputs.cache
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\obj\Debug\net7.0\BloodBowlGenerator.AssemblyInfo.cs
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\obj\Debug\net7.0\BloodBowlGenerator.csproj.CoreCompileInputs.cache
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\obj\Debug\net7.0\BloodBowlGenerator.dll
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\obj\Debug\net7.0\refint\BloodBowlGenerator.dll
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\obj\Debug\net7.0\BloodBowlGenerator.pdb
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\obj\Debug\net7.0\BloodBowlGenerator.genruntimeconfig.cache
+C:\Users\corey\OneDrive\Programming\PlayerGuideToCSharp\BloodBowlGenerator\BloodBowlGenerator\obj\Debug\net7.0\ref\BloodBowlGenerator.dll
